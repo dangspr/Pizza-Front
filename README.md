@@ -1,7 +1,7 @@
 # Pizza-Front
 
 <p align="center">
-   <img src="https://github.com/dangspr/MoviePage/blob/main/public/readmepic.png" alt="pizza&front" />
+   <img src="https://github.com/dangspr/Pizza-Front/blob/main/IMG/pizza&Front.png?raw=true" alt="pizza&front" />
 </p>
 
 <!-- Badges -->
